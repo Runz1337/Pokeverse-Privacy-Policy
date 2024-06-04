@@ -6,7 +6,7 @@
 ## 1. What does it store?
 
  - Server IDs for servers data(prefixes, settings)
- - User IDs for premium users
+ - User IDs for their profile management in Pokeverse.
  - Webhooks to send send action log entires.
  - Confidential data ( webhooks ) are stored & secured using AES Encryption standards.
 
